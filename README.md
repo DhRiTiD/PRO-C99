@@ -1,8 +1,8 @@
-# PRO-C98
+# PRO-C99
 ---
 . . . . 
 
-## project class C-98 w/ whjr.
+## project class C-99 w/ whjr.
 - this class focused on `for` loop and `nested for` loops
 - various functionalities of `for` loop
 - using `end=' '` , `sep=' '` and `range()`
